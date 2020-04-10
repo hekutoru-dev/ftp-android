@@ -41,3 +41,19 @@ Finally, you'll be able to see the added libs in the Dependency window,
 
 We make use of the old camera API to support a Surface View and the Picture Callback interface to automatically take pictures qith no user interaction
 
+# Required Permissions
+
+Because this App makes use of the Camera and Internal Storage, we required to give these permissions to the Manifest File.
+
+This App, requires the next permissions:
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+
+
+
