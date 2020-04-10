@@ -12,6 +12,8 @@ From them we required the: <b>commons-net-3.6.jar</b> and <b>commons-net-3.6-sou
 
 To add the required jars to the project follow the next steps:
 
+![Image description](Images/and_01.png)
+
 
 
 # Camera API
