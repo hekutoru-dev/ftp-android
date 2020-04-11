@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FTPAndroidDemo</string>
+
+    <string name="ftp_addr">FTP Address</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+</resources>
